@@ -1,0 +1,14 @@
+git help add
+git help commit
+git help <qulaquer_comando_git>
+git config --global user.name "Nome Sobrenome"
+git config --global user.email email@gmail.com
+git init
+git status
+git add meu_arquivo.txt
+git add meu_diretorio
+git add .
+git add -f arquivo_no_gitignore.txt
+git commit -m "minha mensagem de commit"
+git rm meu_arquivo.txt
+git clone https://github.com/candilevictor/FIAP.git
